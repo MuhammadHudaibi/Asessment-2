@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string name="list_kosong">Tidak ada data</string>
+    <string name="tambah_resep">Tambah Resep</string>
+    <string name="waktu_pembuatan">Waktu pembuatan: %1$s menit</string>
+    <string name="kembali">Kembali</string>
+    <string name="tambah_catatan">Tambah Resep</string>
+    <string name="edit_catatan">Ubah Resep</string>
+    <string name="simpan">Simpan</string>
+    <string name="judul">Judul</string>
+    <string name="isi_resep">Cara Membuat</string>
+    <string name="isi_catatan">Deskripsi</string>
+    <string name="isi_waktu">Waktu Pembuatan (menit)</string>
+    <string name="invalid">Judul dan isi catatan tidak boleh kosong.</string>
+    <string name="cara_memmbuat">Cara pembuatan: \n%1$s</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="hapus">Hapus</string>
+    <string name="pesan_hapus">Hapus Resep Ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+</resources>
